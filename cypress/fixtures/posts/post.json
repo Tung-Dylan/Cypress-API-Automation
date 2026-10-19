@@ -1,0 +1,8 @@
+{
+  "expectedStatus": 200,
+  "postId": 1,
+  "additionalPostId": 2,
+  "additionalPostExpectedStatus": 200,
+  "nonexistentPostId": 9999,
+  "notFoundStatus": 404
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Learn Cypress API Testing",
+  "body": "This post is created by an automated API test.",
+  "userId": 1,
+  "expectedStatus": 201,
+  "secondPost": {
+    "title": "API Automation with TypeScript",
+    "body": "This is the second post created by an automated test.",
+    "userId": 2,
+    "expectedStatus": 201
+  }
+}
